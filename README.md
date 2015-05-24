@@ -33,6 +33,9 @@ For those IDE's i want to add support
 - [ ] Notepad++
 - [ ] Eclipse (Maybe)
 
+##Errors##
+If you find any errors, please create a issue here in github to help me improve this repository.
+
 ## Contributing ##
 If you want to contribute to this repository, please contact me: [Write me an E-Mail](mailto:info@ccmob.net)
 
