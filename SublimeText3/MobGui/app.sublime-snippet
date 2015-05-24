@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+local this = App("Example App")
+
+local function init()
+	
+end
+
+local function sketch()
+	
+end
+
+this.setRunMethod(sketch)
+this.setInitMethod(init)
+this.execute()
+		]]></content>
+	<tabTrigger>app</tabTrigger>
+    <description>MobGui app skeleton</description>
+	<scope>source.msx</scope>
+</snippet>
