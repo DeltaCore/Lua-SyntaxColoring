@@ -11,18 +11,18 @@ Go [here](https://github.com/breinhart/Lua-In-XCode) for the source repository b
 ## Currently supported IDE's ###
 
 1. [Sublime Text 3](https://github.com/DeltaCore/Lua-SyntaxColoring/SublimeText3)
-  1. Plain Lua is supported by Sublime Text by default
-  2. Computercraft Api
-  3. MobGui Api
+  - Plain Lua is supported by Sublime Text by default
+  - Computercraft Api
+  - MobGui Api
   
 2. [Sublime Text 2](https://github.com/DeltaCore/Lua-SyntaxColoring/SublimeText2)
-  1. Plain Lua is supported by Sublime Text by default
-  2. Computercraft Api
-  3. MobGui Api
+  - Plain Lua is supported by Sublime Text by default
+  - Computercraft Api
+  - MobGui Api
 3. [XCode 4+](https://github.com/DeltaCore/Lua-SyntaxColoring/XCode) 
-  1. Plain Lua
-  2. Computercraft Api
-  3. MobGui Api
+  - Plain Lua
+  - Computercraft Api
+  - MobGui Api
 
 ### Learn more by clicking on one of the links above ###
 
